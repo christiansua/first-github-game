@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=3 uid="uid://druneeitd1uvv"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_8bmt1"]
+line_spacing = 1.0
+font_size = 50
+font_color = Color(0.290196, 1, 1, 1)
+outline_size = 5
+outline_color = Color(0.152941, 0.556863, 0.956863, 1)
+
+[node name="Label" type="Label"]
+offset_left = 340.0
+offset_top = 282.0
+offset_right = 735.0
+offset_bottom = 352.0
+text = "Christian Suarez"
+label_settings = SubResource("LabelSettings_8bmt1")
